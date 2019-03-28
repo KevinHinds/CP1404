@@ -16,8 +16,8 @@ def get_password(minimum_length):
     return password
 
 
-def print_astericks(length_of_password):
-        print('*' * len(length_of_password))
+def print_astericks(sequence):
+        print('*' * len(sequence))
 
 
 main()
