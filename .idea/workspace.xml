@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc76526a-f0b8-4b83-a4e5-ab8669b9c172" name="Default Changelist" comment="completed prac 5">
-      <change afterPath="$PROJECT_DIR$/prac_5/hex_colours.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_5/state_names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_5/word_occurrences.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/cp1404practicals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cp1404practicals.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="cc76526a-f0b8-4b83-a4e5-ab8669b9c172" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -106,11 +101,6 @@
             <path>
               <item name="CP1404" type="b2602c69:ProjectViewProjectNode" />
               <item name="CP1404" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CP1404" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CP1404" type="462c0819:PsiDirectoryNode" />
-              <item name="prac_4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CP1404" type="b2602c69:ProjectViewProjectNode" />
@@ -286,7 +276,7 @@
       <option name="presentableId" value="Default" />
       <updated>1553140699578</updated>
       <workItem from="1553140700828" duration="3138000" />
-      <workItem from="1554418933394" duration="4346000" />
+      <workItem from="1554418933394" duration="4846000" />
     </task>
     <task id="LOCAL-00001" summary="CP1404 pracs end prac 2">
       <created>1553141020863</created>
@@ -316,17 +306,32 @@
       <option name="project" value="LOCAL" />
       <updated>1553143353519</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="completed prac 5">
+      <created>1554423467765</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1554423467765</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7484000" />
+    <option name="totallyTimeSpent" value="7984000" />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="1266" y="0" width="1297" height="1416" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16006467" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16006467" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -335,7 +340,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3995327" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="TODO" order="6" sideWeight="0.4995958" visible="true" weight="0.32943925" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4995958" visible="true" weight="0.32943925" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32939914" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
